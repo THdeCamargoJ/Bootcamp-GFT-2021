@@ -4,13 +4,13 @@
 
 ## Ingredientes
 
--   3 tabletes de 15g de fermento biológico fresco
--   250ml de leite
--   3 ovos
--   4 colheres de sopa de manteiga
--   4 colheres de sopa de açúcar
--   1 ^1^/~2~ colheres de chá de sal
--   2 xícaras (aproximado) de farinha
+- 3 tabletes de 15g de fermento biológico fresco
+- 250ml de leite
+- 3 ovos
+- 4 colheres de sopa de manteiga
+- 4 colheres de sopa de açúcar
+- 1 1/2 colheres de chá de sal
+- 2 xícaras (aproximado) de farinha
 
 
 
@@ -32,9 +32,9 @@ Adicionar o açúcar e o sal à mistura. Adicionar a farinha aos poucos até que
 
 
 
-| ![](../figuras/como sovar uma massa.jpg) |
-| :--------------------------------------: |
-|   **Figura 1:** Como sovar uma massa.    |
+| ![](../figuras/como%20sovar%20uma%20massa.jpg) |
+| :--------------------------------------------: |
+|      **Figura 1:** Como sovar uma massa.       |
 
 
 
@@ -46,9 +46,9 @@ Quanto atingir o ponto (mostrado na Figura 2) deixar a massa crescer até que at
 
 
 
-| ![](../figuras/ponto da massa após sovar.jpg) |
-| :-------------------------------------------: |
-|   **Figura 2:** Ponto da massa após sovar.    |
+| ![](../figuras/ponto%20da%20massa%20após%20sovar.jpg) |
+| :---------------------------------------------------: |
+|       **Figura 2:** Ponto da massa após sovar.        |
 
 
 
@@ -60,9 +60,9 @@ Deixar os pães no forno até que a casca atinja um tom como o da Figura 3 (ou u
 
 
 
-| ![](../figuras/ponto para retirar o pão do forno.jpg) |
-| :---------------------------------------------------: |
-|   **Figura 3:** Ponto para retirar o pão do forno.    |
+| ![](../figuras/ponto%20para%20retirar%20o%20pão%20do%20forno.jpg) |
+| :---------------------------------------------------------------: |
+|         **Figura 3:** Ponto para retirar o pão do forno.          |
 
 
 
