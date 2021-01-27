@@ -1,0 +1,58 @@
+body {
+    background: #1C1C1C;
+    font-family: monospace;
+    max-width: 900px;
+    margin: auto /* Cria um espaçamento de um lado e de outro (igual). */
+}
+
+.ProfilePhoto {
+    border-radius: 50%;
+    border: 3px solid darkred;
+    block-size: 100px;
+}
+
+a {
+    color: darkred
+}
+
+#Title {
+    text-transform: uppercase;
+}
+
+#Title, .SubTitle, .PostTitle {
+    color: darkred;
+}
+
+.PostTitle {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.Post {
+    background: #3C3C3C;
+    padding: 15px;
+    margin-bottom: 15px;
+    box-shadow: -2px 2px 2px #0C0C0C;
+    border-radius: 15px;
+}
+
+.PostContent {
+    margin: 0;
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+.ContactsInfo {
+    list-style-type: none;
+}
+
+.ContactsInfo li {
+    font-style: bold;
+    color: white
+}
+
+.ContactsInfo li a {
+    text-decoration: none;
+}
