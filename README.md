@@ -6,4 +6,8 @@ Desenvolvido projeto "livro-receitas" para compreender os conceitos e comandos b
 
 ## Treinamento HTML5 e CSS3
 
-Desenvolvido projeto de página pessoal para compreender sintaxe básica HTML, CSS, bem como estilização de código HTML através do CSS.
+Desenvolvido projeto de página pessoal para compreender semântica básica de HTML, CSS, bem como estilização de código HTML através do CSS.
+
+## Treinamento JavaScript
+
+Desenvolvido projeto de página web para compreender sintaxe e semântica básicas de JavaScript, bem como sua interação com elementos HTML.
