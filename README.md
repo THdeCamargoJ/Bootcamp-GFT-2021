@@ -11,3 +11,7 @@ Desenvolvido projeto de página pessoal para compreender semântica básica de H
 ## Treinamento JavaScript
 
 Desenvolvido projeto de página web para compreender sintaxe e semântica básicas de JavaScript, bem como sua interação com elementos HTML.
+
+## Recriando o Jogo do Dinossauro
+
+Recriado o jogo do dinossauro, famoso por sua aparição no navegador Chrome após uma queda de rede, para consolidar os conhecimentos em JavaScript adiquiridos no curso de desenvolvimento avançado com JavaScript ES6.
