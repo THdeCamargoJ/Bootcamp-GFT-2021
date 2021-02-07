@@ -1,0 +1,32 @@
+F:\Google Drive\Documents\Typora\Programming\Courses\BootCamp GFT Start_uni 2021\src\meu-primeiro-app-dotnet\bin\Debug\net5.0\meu-primeiro-app-dotnet.exe
+F:\Google Drive\Documents\Typora\Programming\Courses\BootCamp GFT Start_uni 2021\src\meu-primeiro-app-dotnet\bin\Debug\net5.0\meu-primeiro-app-dotnet.deps.json
+F:\Google Drive\Documents\Typora\Programming\Courses\BootCamp GFT Start_uni 2021\src\meu-primeiro-app-dotnet\bin\Debug\net5.0\meu-primeiro-app-dotnet.runtimeconfig.json
+F:\Google Drive\Documents\Typora\Programming\Courses\BootCamp GFT Start_uni 2021\src\meu-primeiro-app-dotnet\bin\Debug\net5.0\meu-primeiro-app-dotnet.runtimeconfig.dev.json
+F:\Google Drive\Documents\Typora\Programming\Courses\BootCamp GFT Start_uni 2021\src\meu-primeiro-app-dotnet\bin\Debug\net5.0\meu-primeiro-app-dotnet.dll
+F:\Google Drive\Documents\Typora\Programming\Courses\BootCamp GFT Start_uni 2021\src\meu-primeiro-app-dotnet\bin\Debug\net5.0\ref\meu-primeiro-app-dotnet.dll
+F:\Google Drive\Documents\Typora\Programming\Courses\BootCamp GFT Start_uni 2021\src\meu-primeiro-app-dotnet\bin\Debug\net5.0\meu-primeiro-app-dotnet.pdb
+F:\Google Drive\Documents\Typora\Programming\Courses\BootCamp GFT Start_uni 2021\src\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.csprojAssemblyReference.cache
+F:\Google Drive\Documents\Typora\Programming\Courses\BootCamp GFT Start_uni 2021\src\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+F:\Google Drive\Documents\Typora\Programming\Courses\BootCamp GFT Start_uni 2021\src\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.AssemblyInfoInputs.cache
+F:\Google Drive\Documents\Typora\Programming\Courses\BootCamp GFT Start_uni 2021\src\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.AssemblyInfo.cs
+F:\Google Drive\Documents\Typora\Programming\Courses\BootCamp GFT Start_uni 2021\src\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.csproj.CoreCompileInputs.cache
+F:\Google Drive\Documents\Typora\Programming\Courses\BootCamp GFT Start_uni 2021\src\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.dll
+F:\Google Drive\Documents\Typora\Programming\Courses\BootCamp GFT Start_uni 2021\src\meu-primeiro-app-dotnet\obj\Debug\net5.0\ref\meu-primeiro-app-dotnet.dll
+F:\Google Drive\Documents\Typora\Programming\Courses\BootCamp GFT Start_uni 2021\src\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.pdb
+F:\Google Drive\Documents\Typora\Programming\Courses\BootCamp GFT Start_uni 2021\src\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.genruntimeconfig.cache
+F:\Google Drive\Documents\Typora\programming\courses\digital-inovation-one\src\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.csprojAssemblyReference.cache
+F:\Google Drive\Documents\Typora\programming\courses\digital-inovation-one\src\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+F:\Google Drive\Documents\Typora\programming\courses\digital-inovation-one\src\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.AssemblyInfoInputs.cache
+F:\Google Drive\Documents\Typora\programming\courses\digital-inovation-one\src\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.AssemblyInfo.cs
+F:\Google Drive\Documents\Typora\programming\courses\digital-inovation-one\src\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.csproj.CoreCompileInputs.cache
+F:\Google Drive\Documents\Typora\programming\courses\digital-inovation-one\src\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.dll
+F:\Google Drive\Documents\Typora\programming\courses\digital-inovation-one\src\meu-primeiro-app-dotnet\obj\Debug\net5.0\ref\meu-primeiro-app-dotnet.dll
+F:\Google Drive\Documents\Typora\programming\courses\digital-inovation-one\src\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.pdb
+F:\Google Drive\Documents\Typora\programming\courses\digital-inovation-one\src\meu-primeiro-app-dotnet\bin\Debug\net5.0\meu-primeiro-app-dotnet.exe
+F:\Google Drive\Documents\Typora\programming\courses\digital-inovation-one\src\meu-primeiro-app-dotnet\bin\Debug\net5.0\meu-primeiro-app-dotnet.deps.json
+F:\Google Drive\Documents\Typora\programming\courses\digital-inovation-one\src\meu-primeiro-app-dotnet\bin\Debug\net5.0\meu-primeiro-app-dotnet.runtimeconfig.json
+F:\Google Drive\Documents\Typora\programming\courses\digital-inovation-one\src\meu-primeiro-app-dotnet\bin\Debug\net5.0\meu-primeiro-app-dotnet.runtimeconfig.dev.json
+F:\Google Drive\Documents\Typora\programming\courses\digital-inovation-one\src\meu-primeiro-app-dotnet\bin\Debug\net5.0\meu-primeiro-app-dotnet.dll
+F:\Google Drive\Documents\Typora\programming\courses\digital-inovation-one\src\meu-primeiro-app-dotnet\bin\Debug\net5.0\ref\meu-primeiro-app-dotnet.dll
+F:\Google Drive\Documents\Typora\programming\courses\digital-inovation-one\src\meu-primeiro-app-dotnet\bin\Debug\net5.0\meu-primeiro-app-dotnet.pdb
+F:\Google Drive\Documents\Typora\programming\courses\digital-inovation-one\src\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.genruntimeconfig.cache

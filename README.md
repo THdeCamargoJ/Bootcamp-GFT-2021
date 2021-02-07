@@ -15,3 +15,7 @@ Desenvolvido projeto de página web para compreender sintaxe e semântica básic
 ## Recriando o Jogo do Dinossauro
 
 Recriado o jogo do dinossauro, famoso por sua aparição no navegador Chrome após uma queda de rede, para consolidar os conhecimentos em JavaScript adiquiridos no curso de desenvolvimento avançado com JavaScript ES6.
+
+## Aplicação .NET
+
+Criada uma aplicação CLI para consolidar conceitos de .NET e C#. A aplicação consiste num mecanismo de gerenciamento simples de alunos, com funções de adição de alunos, listagem dos alunos adicionados e cálculo da média de notas.
